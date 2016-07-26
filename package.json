@@ -1,0 +1,26 @@
+{
+  "name": "react-redux-sweetalert",
+  "version": "0.0.1",
+  "description": "Using sweetalert in React with Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpman/react-redux-sweetalert.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "sweetalert",
+    "alert",
+    "react-component"
+  ],
+  "author": "kpman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kpman/react-redux-sweetalert/issues"
+  },
+  "homepage": "https://github.com/kpman/react-redux-sweetalert#readme"
+}
